@@ -1,6 +1,89 @@
-#cirlce1{
+body{
+	background: linear-gradient(to right, #303f9f,#303f9f ,#303f9f);
+	color: #000;
+  }
+  #header{
+	font-size: 3vw;
+	/*border: 3px solid #4A148C;*/
+	width: 40%;
+	margin-top: 2%;
+	border-radius: 10px;
+	font-family: "Pacifico";
+	background: linear-gradient(to right , #212121,#212121,#212121);
+	color: #fff;
+	box-shadow:3px 3px 5px #000;
+  }
+  #main-div{
+	width: 300px;
+	height: 600px;
+	margin-top: 10%;
+	transition: 0.45s;
+  }
+  .block{
+	width: 100px;
+	height: 100px;
+	border-bottom: 3px solid;
+	border-right: 3px solid;
+	float: left;
+	font-size: 4vw;
+	padding-top: 10px;
+	cursor: pointer;
+	font-family: "Pacifico";
+  }
+  #resetBtn{
+	margin-top:  -500px;
+  }
+  #welcome{
+	margin-top: 10%;
+  }
+  #welcome-header{
+	font-size: 2.5vw;
+	color: white;
+	transition: 0.45s;
+	font-family: "Pacifico";
+  }
+  #cross, #ooo{
+	font-size: 2vw;
+	margin: 3px; 
+	width: 100px;
+	transition: 0.45s;
+	font-family: "Pacifico";
+  }
+  #cross:hover, #ooo:hover{
+	color: white;
+	font-weight: bold;
+	cursor: pointer;
+	font-size: 2.5vw;
+	transition: 0.45s; 
+  }
+  #back{
+	margin-top: -200px;
+	width: 180px;
+	font-size: 20px;
+	border-bottom: 2px solid;
+	cursor: pointer;
+	font-family: "Pacifico";
+	transition: 0.6s;
+  }
+  #back:hover{
+	transform: skew(20deg);
+	 transition: 0.6s;
+	 
+  }
+  .block:hover{
+	background-color: white;
+	opacity: .1;
+	transition: 0.6s;
+  }
+  #result{
+	margin-top: 10%;
+	font-size:7vw;
+	position:relative;
+	font-family: "Pacifico";;
+  }
+/* #cirlce1{
 	border : solid 3px #000000;
 	border-radius: 100%;
 	background-color: purple;
 
-}
+} */
