@@ -9,3 +9,11 @@ In this project the first player is the user and the second player is computer's
 https://codepen.io/Prateekmedy/full/xXGmmg
 
 ---
+#### ScreenShots:
+
+##### Tic Tac Toe
+<img src="https://gateway.ipfs.io/ipfs/QmTfG2vQi9TyWmT6uUqfoDpM1R7DE1yU8B2zb1VLTnWRkw/" alt="Tic Tac Toe" />
+
+---
+
+**Thanks for taking interest...** 😍😁👍
